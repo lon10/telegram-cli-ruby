@@ -9,11 +9,11 @@ Rgister it with phone number
 
 Create 'config/telegram.yml' with content:
 
-  peer: Peer from contact list, which will receive messages
+	peer: Peer from contact list, which will receive messages
 
-  key_path: Path to your public key
+	key_path: Path to your public key
 
-  telegram_path: Path to telegram-cli application
+	telegram_path: Path to telegram-cli application
 
 ##Usage
 
