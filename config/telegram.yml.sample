@@ -1,0 +1,3 @@
+peer: 'Rustam'
+key_path: 'path/to/tg/key.pub'
+telegram_path: 'path/to/telegram'
